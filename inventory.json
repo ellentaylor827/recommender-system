@@ -1,38 +1,20 @@
 [
-  {
-    "id": 1,
-    "Yarn name": "DK",
-    "Total yardage": 5000,
-    "ply": 8,
-    "wpi": 11
-  },
-  {
-    "id": 2,
-    "Yarn name": "Fingering",
-    "Total yardage": 5000,
-    "ply": 4,
-    "wpi": 14
-  },
-  {
-    "id": 3,
-    "Yarn name": "Aran",
-    "Total yardage": 5000,
-    "ply": 10,
-    "wpi": 8
-  },
-  {
-    "id": 4,
-    "Yarn name": "Bulky",
-    "Total yardage": 5000,
-    "ply": 12,
-    "wpi": 7
-  },
-  {
-    "id": 5,
-    "Yarn name": "Worstered",
-    "Total yardage": 5000,
-    "ply": 10,
-    "wpi": 9
-  }
-  
+    {
+        "Yarn name":"Aran",
+        "ply":"10",
+        "wpi":"8",
+        "Total yardage":4250
+    },
+    {
+        "Yarn name":"DK",
+        "ply":8.0,
+        "wpi":11.0,
+        "Total yardage":5000
+    },
+    {
+        "Yarn name":"Worstered",
+        "ply":10.0,
+        "wpi":9.0,
+        "Total yardage":5000
+    }
 ]

@@ -1,65 +1,191 @@
 [
     {
         "Categories": [
-            "Coat / Jacket",
-            "Clothing"
+            "Doll",
+            "Softies"
+        ],
+        "Crochet gauge": null,
+        "Difficulty average": 2,
+        "Knit gauge": "22",
+        "Max yardage": 60,
+        "Min yardage": 55,
+        "Photo": "https://images4-g.ravelrycache.com/uploads/akabekobotan/828041527/gwim_weaper_shelved.jpeg",
+        "Project id": 1204986,
+        "Project name": "Da Gwim Weaper",
+        "UK": true,
+        "US": null,
+        "Yarn id": 11,
+        "Yarn name": "DK",
+        "ply": "8",
+        "url": "http://www.ravelry.com/dls/54986/748316",
+        "wpi": "11"
+    },
+    {
+        "Categories": [
+            "Animal",
+            "Softies"
         ],
         "Crochet gauge": "",
-        "Difficulty average": 3.6923076923076925,
+        "Difficulty average": 2,
         "Knit gauge": "18",
-        "Max yardage": 2900,
-        "Min yardage": 1600,
-        "Photo": "https://images4-g.ravelrycache.com/uploads/JourneyCDesigns/1054016534/Pastel_Aesthetic_Photo_Collage_Instagram_Story_20250108_105744_0000_shelved.png",
-        "Project id": 7415807,
-        "Project name": "Equinox Hooded Jacket",
+        "Max yardage": 30,
+        "Min yardage": 27,
+        "Photo": "https://images4-g.ravelrycache.com/uploads/Chickinsoodlenoop/811633823/pastelamigurumispider_shelved.jpg",
+        "Project id": 1181106,
+        "Project name": "Amigurumi Spider",
         "UK": null,
         "US": true,
         "Yarn id": 1,
         "Yarn name": "Aran",
         "ply": "10",
-        "url": "http://www.ravelry.com/purchase/journey-chanel-designs/989236",
+        "url": "http://www.ravelry.com/dls/91281/729268",
         "wpi": "8"
     },
     {
         "Categories": [
-            "Washcloth / Dishcloth",
-            "Cleaning"
+            "Animal",
+            "Softies"
+        ],
+        "Crochet gauge": null,
+        "Difficulty average": 2,
+        "Knit gauge": "22",
+        "Max yardage": 170,
+        "Min yardage": 163,
+        "Photo": "https://images4-g.ravelrycache.com/uploads/Nesspot/552946166/hubble_3_shelved.jpg",
+        "Project id": 871128,
+        "Project name": "Hubble the Squid",
+        "UK": null,
+        "US": true,
+        "Yarn id": 11,
+        "Yarn name": "DK",
+        "ply": "8",
+        "url": "http://www.ravelry.com/dls/43310/941991",
+        "wpi": "11"
+    },
+    {
+        "Categories": [
+            "Animal",
+            "Softies"
+        ],
+        "Crochet gauge": null,
+        "Difficulty average": 0,
+        "Knit gauge": "22",
+        "Max yardage": 510,
+        "Min yardage": 500,
+        "Photo": "https://images4-g.ravelrycache.com/uploads/Bea-utifulcrafts/1059263716/IMG_6118_shelved.jpeg",
+        "Project id": 7422033,
+        "Project name": "Fae Bunny",
+        "UK": false,
+        "US": true,
+        "Yarn id": 11,
+        "Yarn name": "DK",
+        "ply": "8",
+        "url": "http://www.ravelry.com/purchase/bea-mcdonald-designs/994235",
+        "wpi": "11"
+    },
+    {
+        "Categories": [
+            "Other",
+            "Bag"
         ],
         "Crochet gauge": "",
         "Difficulty average": 0,
         "Knit gauge": "18",
-        "Max yardage": 89,
-        "Min yardage": 89,
-        "Photo": "https://images4-g.ravelrycache.com/uploads/RhonddaM/1060349143/Modern_Crochet_Dishcloth_Pattern_shelved.png",
-        "Project id": 7423549,
-        "Project name": "A Modern Dishcloth",
+        "Max yardage": 361,
+        "Min yardage": 361,
+        "Photo": "https://images4-g.ravelrycache.com/uploads/TOFTuk/998171554/_MG_7143_shelved.jpg",
+        "Project id": 7345776,
+        "Project name": "Frog Bag",
+        "UK": true,
+        "US": false,
+        "Yarn id": 1,
+        "Yarn name": "Aran",
+        "ply": "10",
+        "url": "https://www.toftuk.com/PD.aspx?product=Clothing/Bags/-Frog_Bag",
+        "wpi": "8"
+    },
+    {
+        "Categories": [
+            "Animal",
+            "Softies"
+        ],
+        "Crochet gauge": null,
+        "Difficulty average": 4,
+        "Knit gauge": "22",
+        "Max yardage": 328,
+        "Min yardage": 301,
+        "Photo": "https://images4-f.ravelrycache.com/uploads/rian/411822647/IMG_5613_shelved.JPG",
+        "Project id": 708284,
+        "Project name": "Toy Pelican",
+        "UK": false,
+        "US": false,
+        "Yarn id": 11,
+        "Yarn name": "DK",
+        "ply": "8",
+        "url": "http://www.ravelry.com/purchase/rian-anderson/367872",
+        "wpi": "11"
+    },
+    {
+        "Categories": [
+            "Other",
+            "Blanket"
+        ],
+        "Crochet gauge": null,
+        "Difficulty average": 3,
+        "Knit gauge": "22",
+        "Max yardage": 2297,
+        "Min yardage": 2187,
+        "Photo": "https://images4-g.ravelrycache.com/uploads/ArianaWimsett/937071706/Shop_Photo_2_-_3in1_Highland_Cow_Baby_Blanket_-_Crafting_Happiness_shelved.jpg",
+        "Project id": 1351531,
+        "Project name": "3in1 Highland Cow Baby Blanket",
+        "UK": null,
+        "US": true,
+        "Yarn id": 11,
+        "Yarn name": "DK",
+        "ply": "8",
+        "url": "http://www.ravelry.com/purchase/crafting-happiness-designs/868456",
+        "wpi": "11"
+    },
+    {
+        "Categories": [
+            "Other",
+            "Blanket"
+        ],
+        "Crochet gauge": null,
+        "Difficulty average": 7,
+        "Knit gauge": "22",
+        "Max yardage": 3500,
+        "Min yardage": 3281,
+        "Photo": "https://images4-f.ravelrycache.com/uploads/ArianaWimsett/768305437/Ice_Dragon_Baby_Blanket_Shop_Photo_1_shelved.jpg",
+        "Project id": 1117434,
+        "Project name": "3in1 Ice Dragon Baby Blanket",
+        "UK": null,
+        "US": true,
+        "Yarn id": 11,
+        "Yarn name": "DK",
+        "ply": "8",
+        "url": "http://www.ravelry.com/purchase/crafting-happiness-designs/679607",
+        "wpi": "11"
+    },
+    {
+        "Categories": [
+            "Other",
+            "Blanket"
+        ],
+        "Crochet gauge": "",
+        "Difficulty average": 4,
+        "Knit gauge": "18",
+        "Max yardage": 2734,
+        "Min yardage": 2461,
+        "Photo": "https://images4-f.ravelrycache.com/uploads/ArianaWimsett/729298719/Giraffe_Baby_Blanket_SHOP_PHOTO_1_shelved.jpg",
+        "Project id": 1067716,
+        "Project name": "3in1 Safari Giraffe Baby Blanket",
         "UK": null,
         "US": true,
         "Yarn id": 1,
         "Yarn name": "Aran",
         "ply": "10",
-        "url": "http://www.ravelry.com/purchase/oombawka-design/995361",
+        "url": "http://www.ravelry.com/purchase/crafting-happiness-designs/638866",
         "wpi": "8"
-    },
-    {
-        "Categories": [
-            "Potholder",
-            "Home"
-        ],
-        "Crochet gauge": "",
-        "Difficulty average": 4.333333333333333,
-        "Knit gauge": "28",
-        "Max yardage": 66,
-        "Min yardage": 60,
-        "Photo": "https://images4-g.ravelrycache.com/uploads/lillabjorncrochet/1030010053/Gift_Coaster_8_shelved.jpg",
-        "Project id": 7386570,
-        "Project name": "Gift Coaster",
-        "UK": null,
-        "US": true,
-        "Yarn id": 5,
-        "Yarn name": "Fingering",
-        "ply": "4",
-        "url": "http://www.ravelry.com/purchase/lilla-bjorn-crochet-designs/972767",
-        "wpi": "14"
     }
 ]
